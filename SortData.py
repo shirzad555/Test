@@ -21,6 +21,7 @@ CH1_V  = []
 CH2_V  = []
 CH3_V  = []
 CH4_V  = []
+CH5_V  = []
 
 for line in openedFile:
     #print 'test'
